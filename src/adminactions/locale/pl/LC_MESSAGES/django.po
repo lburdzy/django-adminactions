@@ -24,7 +24,7 @@ msgstr ""
 #: src/adminactions/graph.py:49 src/adminactions/mass_update.py:247
 #: src/adminactions/merge.py:82
 msgid "Sorry you do not have rights to execute this action"
-msgstr ""
+msgstr "Przepraszamy, nie masz uprawnień potrzebnych do wykonania tej akcji"
 
 #: src/adminactions/byrows_update.py:55
 msgid "Updated record(s)"
